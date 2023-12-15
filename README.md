@@ -10,3 +10,5 @@ Heart Shape using Python | [turtle_race.py](https://github.com/crazycodersonline
 
 
 
+#### Doing projects is the best way to learn code.
+### [Access Full Playlist of Graphic Project Tutorials](https://www.youtube.com/playlist?list=PL-sBHWqYN7dXThwPWcNr0tV7Y6DOrnkIr).
